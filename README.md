@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's hello-world starter
+  Gatsby's website starter
 </h1>
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
@@ -16,11 +16,11 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
+    Use the Gatsby CLI to create a new site, specifying the website starter.
 
     ```shell
-    # create a new Gatsby site using the hello-world starter
-    gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
+    # create a new Gatsby site using the website starter
+    gatsby new website-gatsby https://github.com/backndev/Website-GatsbyJS-with-GraphQL
     ```
 
 1.  **Start developing.**
@@ -28,8 +28,8 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-hello-world-starter/
-    gatsby develop
+    cd website-gatsby/
+    npm run develop
     ```
 
 1.  **Open the source code and start editing!**
